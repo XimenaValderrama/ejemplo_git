@@ -1,2 +1,2 @@
 # Proyecto ejemplo
-Este es mi primer proyecto von GitHub
+Este es mi primer proyecto con GitHub
